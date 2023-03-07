@@ -1,4 +1,4 @@
-# Clínica de Terapia Ocupacional - Vida Plena
+# Clínica Vida Plena - Terapia Ocupacional
 
 Este é um projeto de uma clínica de terapia ocupacional, desenvolvido utilizando HTML, CSS e JavaScript. Apenas os textos utilizados foram criados pelo ChatGPT, um modelo de linguagem desenvolvido pela OpenAI. As imagens foram retiradas do banco de imagens Pexels.
 
